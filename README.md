@@ -33,7 +33,7 @@ This project provides a clean and reusable interface for connecting to a databas
 
 ## 🚀 Running the Project
 
-pip install -r requirements.txt
-Make a .env and put in there in this model
-DATABASE_HOST = 'your connection name, like (DESKTOP_...)'
-DATABASE_NAME = 'your database'
+- pip install -r requirements.txt
+- Make a .env and put in there in this model
+  - DATABASE_HOST = 'your connection name, like (DESKTOP_...)'
+  - DATABASE_NAME = 'your database'
